@@ -1,0 +1,10 @@
+D:\step\C#\Desktop\FractionsCalculator\FractionsCalculator\bin\Debug\FractionsCalculator.exe.config
+D:\step\C#\Desktop\FractionsCalculator\FractionsCalculator\bin\Debug\FractionsCalculator.exe
+D:\step\C#\Desktop\FractionsCalculator\FractionsCalculator\bin\Debug\FractionsCalculator.pdb
+D:\step\C#\Desktop\FractionsCalculator\FractionsCalculator\obj\Debug\FractionsCalculator.csproj.AssemblyReference.cache
+D:\step\C#\Desktop\FractionsCalculator\FractionsCalculator\obj\Debug\FractionsCalculator.Form1.resources
+D:\step\C#\Desktop\FractionsCalculator\FractionsCalculator\obj\Debug\FractionsCalculator.Properties.Resources.resources
+D:\step\C#\Desktop\FractionsCalculator\FractionsCalculator\obj\Debug\FractionsCalculator.csproj.GenerateResource.cache
+D:\step\C#\Desktop\FractionsCalculator\FractionsCalculator\obj\Debug\FractionsCalculator.csproj.CoreCompileInputs.cache
+D:\step\C#\Desktop\FractionsCalculator\FractionsCalculator\obj\Debug\FractionsCalculator.exe
+D:\step\C#\Desktop\FractionsCalculator\FractionsCalculator\obj\Debug\FractionsCalculator.pdb
